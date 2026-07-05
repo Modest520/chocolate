@@ -4,7 +4,7 @@ hello,I am studying and working on R programming language ,hoping that all of us
 I am a little bit confused about the basic operation. 
 
 # Hi, back
-It's been 7 years. 
+It's been 6 years. 
 I miss myself so much!
 I will come back and harbor a modest mind to continue learing! 
 
